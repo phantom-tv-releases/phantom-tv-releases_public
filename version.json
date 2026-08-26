@@ -11,9 +11,9 @@
     "changelog": "Geolocalisation appareils, restauration profils, chargements plus rapides"
   },
   "firestick": {
-    "build": 35,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/firestick-1.0.0%2B35/phantomTV_firestick_35.apk",
-    "changelog": "Fix profils apres deconnexion, stabilite amelioree",
-    "downloader_code": "1034604"
+    "build": 36,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/firestick-1.0.0%2B36/phantomTV_firestick_36.apk",
+    "changelog": "Navigation telecommande corrigee : TV Gratuite, Signalement, Guide TV, bandeau mise a jour",
+    "downloader_code": "4033516"
   }
 }
