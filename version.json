@@ -6,9 +6,9 @@
     "downloader_code": "5936296"
   },
   "windows": {
-    "build": 34,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B34/PhantomTV_Setup.exe",
-    "changelog": "Geolocalisation appareils, restauration profils, chargements plus rapides"
+    "build": 57,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B57/PhantomTV_Setup.exe",
+    "changelog": "Correction d'un plantage lors de l'ouverture de flux (blocage indefini). Ajout du parrainage et suivi ameliore des connexions."
   },
   "firestick": {
     "build": 36,
