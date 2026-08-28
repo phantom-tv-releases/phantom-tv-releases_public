@@ -1,9 +1,9 @@
 {
   "android": {
-    "build": 36,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B36/phantomTV36.apk",
-    "changelog": "Fix profils apres deconnexion, stabilite amelioree",
-    "downloader_code": "5936296"
+    "build": 57,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B57/phantomTV57.apk",
+    "changelog": "Correction d'un plantage a l'ouverture de flux. Favoris, reprise de lecture et groupes de chaines separes par serveur.",
+    "downloader_code": "4383700"
   },
   "windows": {
     "build": 57,
