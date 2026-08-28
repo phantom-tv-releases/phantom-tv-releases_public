@@ -8,7 +8,7 @@
   "windows": {
     "build": 57,
     "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B57/PhantomTV_Setup.exe",
-    "changelog": "Correction d'un plantage lors de l'ouverture de flux (blocage indefini). Ajout du parrainage et suivi ameliore des connexions."
+    "changelog": "Correction d'un plantage lors de l'ouverture de flux (blocage indefini). Ajout du parrainage. Favoris/reprise de lecture/groupes de chaines desormais separes par serveur."
   },
   "firestick": {
     "build": 36,
