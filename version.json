@@ -6,9 +6,9 @@
     "downloader_code": "7757502"
   },
   "windows": {
-    "build": 57,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B57/PhantomTV_Setup.exe",
-    "changelog": "Correction d'un plantage lors de l'ouverture de flux (blocage indefini). Ajout du parrainage. Favoris/reprise de lecture/groupes de chaines desormais separes par serveur."
+    "build": 58,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B58/PhantomTV_Setup.exe",
+    "changelog": "Cle Free automatique avec affichage instantane a l'ecran. Messagerie support en temps reel accessible directement depuis l'application."
   },
   "firestick": {
     "build": 36,
