@@ -6,9 +6,9 @@
     "downloader_code": "5567365"
   },
   "windows": {
-    "build": 58,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B58/PhantomTV_Setup.exe",
-    "changelog": "Cle Free automatique avec affichage instantane a l'ecran. Messagerie support en temps reel accessible directement depuis l'application."
+    "build": 60,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/windows-1.0.0%2B60/PhantomTV_Setup.exe",
+    "changelog": "Application disponible en 5 langues. Cle Free instantanee. Ecran d'activation reorganise avec guide etape par etape."
   },
   "firestick": {
     "build": 58,
