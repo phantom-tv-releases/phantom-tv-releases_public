@@ -1,9 +1,9 @@
 {
   "android": {
-    "build": 58,
-    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B58/phantomTV58.apk",
-    "changelog": "Nouveau : la cle Free s'affiche desormais instantanement a l'ecran lors de la demande, en plus d'etre envoyee par email. Correction de compatibilite pour les boitiers TV sans ecran tactile (ex: Formuler).",
-    "downloader_code": "7757502"
+    "build": 60,
+    "url": "https://github.com/phantom-tv-releases/phantom-tv-releases_public/releases/download/1.0.0%2B60/phantomTV60.apk",
+    "changelog": "Application disponible en 5 langues. Cle Free instantanee. Ecran d'activation reorganise avec guide etape par etape. Fix compatibilite boitiers TV sans ecran tactile.",
+    "downloader_code": "5567365"
   },
   "windows": {
     "build": 58,
